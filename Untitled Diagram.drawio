@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-18T04:17:40.404Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="V0L-OfRD2uY1tL2zEi8C" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-18T04:18:20.202Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="xWyChXQb5BvE8fv9tjzp" version="14.4.8" type="github">
   <diagram id="U1bnuGQKikLb_KLcGihO" name="Page-1">
     <mxGraphModel dx="1426" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -115,7 +115,7 @@
         <mxCell id="t71am8RYP-MXdgxq2AsJ-48" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;background-color: #a7c942 ; color: #ffffff ; border: 1px solid #98bf21&quot;&gt;&lt;th align=&quot;left&quot;&gt;상승&lt;/th&gt;&lt;th align=&quot;left&quot;&gt;횡보&lt;/th&gt;&lt;th align=&quot;left&quot;&gt;하락&lt;/th&gt;&lt;/tr&gt;&lt;tr style=&quot;border: 1px solid #98bf21&quot;&gt;&lt;td&gt;{단어:value}&lt;/td&gt;&lt;td&gt;{단어:value}&lt;/td&gt;&lt;td&gt;{단어:value}&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;background-color: #eaf2d3 ; border: 1px solid #98bf21&quot;&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#c0c0c0;fillColor=#ffffff;overflow=fill;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="450" width="280" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="t71am8RYP-MXdgxq2AsJ-49" value="상승/횡보/하락 정의" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="t71am8RYP-MXdgxq2AsJ-49" value="&lt;b&gt;&lt;font color=&quot;#ff0080&quot;&gt;상승/횡보/하락 정의&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="500" y="180" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="t71am8RYP-MXdgxq2AsJ-56" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="t71am8RYP-MXdgxq2AsJ-48" edge="1">
@@ -148,6 +148,9 @@
         </mxCell>
         <mxCell id="P1XQ5DYVhUHTAm5iBN6K-2" value="이때까지 cbow classifier검증도 해야 함" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="910" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P1XQ5DYVhUHTAm5iBN6K-3" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;수집 기간 정의&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="180" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
